@@ -47,10 +47,10 @@ class Scrapper:
         pdf.set_font("Arial", size=15)
 
     # create a cell
-        pdf.cell(200, 10, txt="GeeksforGeeks", ln=1, align='C')
+        #pdf.cell(200, 10, txt="GeeksforGeeks", ln=1, align='C')
 
     # loop over the dictionary and add each key-value pair to the PDF
-        ln = 2
+        ln = 1
         for key, value in dic_of_info.items():
             pdf.cell(200, 10, txt=key, ln=ln, align='C')
             ln += 1
