@@ -1,0 +1,6 @@
+flask
+selenium
+fpdf
+pymongo
+requests
+logging

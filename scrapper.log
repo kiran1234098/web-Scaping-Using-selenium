@@ -1,0 +1,73 @@
+2023-03-25 02:48:28,958 - start
+2023-03-25 02:51:26,829 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.225.35:5000
+2023-03-25 02:51:26,829 - [33mPress CTRL+C to quit[0m
+2023-03-25 02:54:00,280 - start
+2023-03-25 02:55:02,239 - selenium work
+2023-03-25 02:55:18,568 - selenium work
+2023-03-25 02:55:33,528 - selenium work
+2023-03-25 02:55:48,802 - selenium work
+2023-03-25 02:56:03,701 - selenium work
+2023-03-25 02:56:19,285 - selenium work
+2023-03-25 02:56:34,166 - selenium work
+2023-03-25 02:56:49,038 - selenium work
+2023-03-25 02:56:56,345 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.225.35:5000
+2023-03-25 02:56:56,345 - [33mPress CTRL+C to quit[0m
+2023-03-25 02:58:10,711 - 127.0.0.1 - - [25/Mar/2023 02:58:10] "GET / HTTP/1.1" 200 -
+2023-03-25 02:58:10,826 - 127.0.0.1 - - [25/Mar/2023 02:58:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2023-03-25 03:10:30,581 - start
+2023-03-25 03:28:12,554 - start
+2023-03-25 03:29:08,520 - selenium work
+2023-03-25 03:29:30,572 - selenium work
+2023-03-25 03:29:52,608 - selenium work
+2023-03-25 03:30:12,958 - selenium work
+2023-03-25 03:30:29,206 - selenium work
+2023-03-25 03:30:47,122 - selenium work
+2023-03-25 03:31:05,283 - selenium work
+2023-03-25 03:31:20,165 - selenium work
+2023-03-25 03:31:27,588 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.225.35:5000
+2023-03-25 03:31:27,589 - [33mPress CTRL+C to quit[0m
+2023-03-25 03:32:03,443 - 127.0.0.1 - - [25/Mar/2023 03:32:03] "GET / HTTP/1.1" 200 -
+2023-03-25 03:32:03,622 - 127.0.0.1 - - [25/Mar/2023 03:32:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2023-03-25 03:32:50,611 - 127.0.0.1 - - [25/Mar/2023 03:32:50] "[33mGET /pdf?html= HTTP/1.1[0m" 404 -
+2023-03-25 10:44:54,540 - start
+2023-03-25 10:46:04,139 - selenium work
+2023-03-25 10:46:20,181 - selenium work
+2023-03-25 10:46:35,511 - selenium work
+2023-03-25 10:46:52,521 - selenium work
+2023-03-25 10:47:08,419 - selenium work
+2023-03-25 10:47:24,876 - selenium work
+2023-03-25 10:47:40,700 - selenium work
+2023-03-25 10:47:56,528 - selenium work
+2023-03-25 10:48:03,818 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.225.35:5000
+2023-03-25 10:48:03,818 - [33mPress CTRL+C to quit[0m
+2023-03-25 10:48:39,981 - 127.0.0.1 - - [25/Mar/2023 10:48:39] "GET / HTTP/1.1" 200 -
+2023-03-25 10:48:40,101 - 127.0.0.1 - - [25/Mar/2023 10:48:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2023-03-25 10:48:40,174 - 127.0.0.1 - - [25/Mar/2023 10:48:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-03-25 11:07:28,738 - start
+2023-03-25 11:09:33,363 - selenium work
+2023-03-25 11:10:08,853 - selenium work
+2023-03-25 11:10:35,651 - selenium work
+2023-03-25 11:11:00,077 - selenium work
+2023-03-25 11:11:20,975 - selenium work
+2023-03-25 11:11:43,995 - selenium work
+2023-03-25 11:12:07,079 - selenium work
+2023-03-25 11:12:27,682 - selenium work
+2023-03-25 11:12:34,959 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.225.35:5000
+2023-03-25 11:12:34,959 - [33mPress CTRL+C to quit[0m
+2023-03-25 11:13:09,743 - 127.0.0.1 - - [25/Mar/2023 11:13:09] "GET / HTTP/1.1" 200 -
+2023-03-25 11:13:09,815 - 127.0.0.1 - - [25/Mar/2023 11:13:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
